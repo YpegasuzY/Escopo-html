@@ -1,0 +1,48 @@
+.cabecalho{
+    background-color: #ff41a1;
+    padding: 60px;
+}
+.secao1{
+    background-color: #f60069;
+    padding: 300px;
+    background-image: url(imagens/section\ 1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    bac
+}
+.secao2 {
+    background-color: #ff90ab;
+    padding: 300px;
+}
+
+.father{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px;
+}
+
+.div-1 {
+    width: 200px;
+    height: 200px;
+    background-color: #4d4a4b;
+}
+
+.div-2 {
+    width: 200px;
+    height: 200px;
+  background-color: #ff90ab;
+}
+
+.div-3 {
+    width: 200px;
+    height: 200px;
+    background-color: #4d4a4b;
+}
+
+.rodape{
+    background-color: #ffccd1;
+    padding: 60px;
+}
+.father .div-1 img {
+    width: 150px;
+}
